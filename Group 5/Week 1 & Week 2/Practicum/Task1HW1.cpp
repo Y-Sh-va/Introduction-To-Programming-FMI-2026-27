@@ -1,6 +1,5 @@
 // Task1HW1.cpp : Prints some text
 // Group 5
-// I am aware this could've looked way prettier if I had used separate cout operators.
 
 #include <iostream>
 
